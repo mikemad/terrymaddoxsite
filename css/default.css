@@ -1,0 +1,290 @@
+body
+{
+  	margin: 0 auto;
+    padding: 0;
+    color: #000000;
+    font-family: Verdana, Arial, Serif;
+    font-size: 80%;
+    text-align: center;
+    background-color:#23212e;
+}
+
+#categorywrapper
+{
+	font-weight: bold;
+	margin: 20px 0px 0px 10px;
+	overflow: hidden;
+	width: 167px;
+}
+
+.terryphoto
+{
+	position:relative;
+	padding: 1px;
+	border: 1px solid #9a98b6;
+	left:20px;
+	top:20px;
+}
+
+#categorywrapper A:link {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+#categorywrapper A:active {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+#categorywrapper A:visited {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+#categorywrapper A:hover {
+	COLOR: black; TEXT-DECORATION: none
+}
+
+.prettylinks A:link {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+.prettylinks A:active {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+.prettylinks A:visited {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+.prettylinks A:hover {
+	COLOR: black; TEXT-DECORATION: none
+}
+
+#contactinfo
+{
+	margin-left:10px;
+	margin-top:20px;
+}
+
+.mainmenu
+{
+	float: right;
+	margin-right: 5px;
+	margin-top: 5px;
+	font-size:95%;
+	font-weight:bold;
+}
+
+.mainmenu ul
+{
+    list-style-type:none;
+    margin:0;
+    padding:0;  
+}
+
+.mainmenu li
+{
+    display:inline-block;
+    float:left;
+    vertical-align: middle;
+}
+
+.mainmenu li.dot
+{
+    margin-top:0px;
+    width:16px;
+    text-align:center;
+    vertical-align:middle;
+    display:inline-block;
+}
+
+.mainmenu li.sep
+{
+    width:10px;
+}
+
+.mainmenu a
+{
+    display:block;
+    color:#9A98B6;
+    text-decoration: none;
+}
+
+.mainmenu a.sel
+{
+    color:#FFFFFF;
+}
+
+.mainmenu li img
+{
+    margin-top:5px;
+    width:4px;
+    height:4px;
+    min-height:4px
+}
+
+h1
+{
+	color: #000000;
+	font-size: 130%;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.featuredimage
+{
+	padding: 2px;
+	border: 1px solid #9a98b6;
+	background-color:#4d4764;
+	margin:10px;
+	float:right;
+	position:relative;
+	clear:both;
+}
+
+#container
+{
+	margin: 0 auto;
+	width: 760px;
+	text-align: left;
+	background-color:#FFFFFF;
+}
+
+#header
+{
+	height: 134px;
+	width: 760px;	
+	background-image: url(/css/images/header.jpg);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	position: relative;
+	margin:0;
+    background-color:#23212e;	
+}
+
+#header2
+{
+	color: #272900;
+	background-image: url(/css/images/navbar.jpg);
+	background-repeat: no-repeat;
+	background-position: 0 0;	
+	height:25px;	
+  background-color:#23212e;	
+}	
+
+.header3
+{
+	color: #272900;
+	background-image: url(/css/images/header2.jpg);
+	background-repeat: no-repeat;	
+	background-position: 0 0;				
+	height:20px;	
+  background-color:#23212e;	
+}
+
+.header3artwork
+{
+	color: #272900;
+	background-image: url(/css/images/artwork.jpg);
+	background-repeat: no-repeat;	
+	background-position: 0 0;				
+	height:220px;	
+  background-color:#23212e;	
+}
+	
+#leftcontainer
+{
+  margin: 0 580px 0px 0px;
+  position:relative;    
+  background-color:white;	      
+}
+
+.leftcontent 
+{ 
+    margin-left:20px;
+   
+}
+
+#rightcontainer
+{
+	float: right;
+	width: 580px;
+	background-color:White;	
+}
+
+.rightcontent
+{
+  position:relative;
+	border-left: 1px solid #000000;
+	margin: 20px 10px 20px 10px;
+	padding: 0px 10px 0px 10px;
+}	
+
+#footer
+{
+	clear: both;
+	color: #9a98b6;
+	background-color: #4d4764;
+	text-align: right;
+	padding: 6px 10px 6px 5px;
+	font-size: 85%;
+	right:10px;
+	width:745px;
+}
+
+.highlight
+{
+	background-color: #fefbd2;
+	color: #000080;
+	border-right: black thin dashed;
+	border-top: black thin dashed;
+	border-left: black thin dashed;
+	border-bottom: black thin dashed;
+}
+
+#themeselector
+{
+	position:relative;
+	top:10px;
+	left:600px;
+}
+
+.thumbnail
+{
+	padding: 0px;
+	border: 1px solid #9A98B6;
+	margin: 2px 2px 2px 2px;
+	vertical-align: top;
+	text-align:center;
+}
+
+.detail
+{
+	padding: 0px;
+	border: 1px solid #9A98B6;
+	margin: 2px 2px 2px 2px;
+}
+
+.listview
+{
+  font-size:75%;
+	/*background-color: #ffff99;*/
+}
+
+.listview TD
+{
+	width:20%;
+	text-align:center;
+	vertical-align:top;
+	padding:5px 5px 5px 5px;
+}
+
+#pagerwrapper
+{
+	margin-top:10px;
+}
+
+#pagerwrapper A:link {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+#pagerwrapper A:active {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+#pagerwrapper A:visited {
+	COLOR: #766bd1; TEXT-DECORATION: none
+}
+#pagerwrapper A:hover {
+	COLOR: black; TEXT-DECORATION: none
+}
